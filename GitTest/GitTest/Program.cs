@@ -15,7 +15,7 @@ namespace GitTest
         {
             CreateHostBuilder(args).Build().Run();
         }
-
+        //nEW
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
