@@ -11,6 +11,7 @@ namespace GitTest
 {
     public class Program
     {
+        //·ÖÖ§NG
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
